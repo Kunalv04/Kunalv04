@@ -5,7 +5,7 @@
 
 <!-- 🔥 Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=2500&pause=700&color=7C4DFF&center=true&vCenter=true&width=950&lines=🔥+Kunal+Gupta;🚀+Cloud+%26+DevOps+Engineer;🏆+AWS+Certified+Solution+Architect+Associate;⚙️+CI%2FCD+%7C+AWS+%7C+Terraform+%7C+Docker;⚡+Automating+%26+Scaling+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=2500&pause=700&color=7C4DFF&center=true&vCenter=true&width=950&lines=🚀+Cloud+%26+DevOps+Engineer;🏆+AWS+Certified+Solution+Architect+Associate;⚙️+CI%2FCD+%7C+AWS+%7C+Terraform+%7C+Docker;⚡+Automating+%26+Scaling+Systems" />
 </p>
 
 ---
