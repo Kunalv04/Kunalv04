@@ -1,18 +1,18 @@
-<!-- 🎨 Banner -->
+<!-- 🎨 Custom DevOps Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=200&section=header&text=Kunal%20%7C%20DevOps%20Engineer&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="./a_wide_cinematic_tech_banner_poster_style_image_w.png" width="100%" />
 </p>
 
 <!-- 🔥 Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Kunal+👋;DevOps+Engineer+🚀;AWS+%7C+Docker+%7C+CI%2FCD;Building+Scalable+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Kunal+Gupta+👋;Cloud+%26+DevOps+Engineer;CI%2FCD+%7C+AWS+%7C+Terraform+%7C+Docker;Automating+Deployments+%26+Scaling+Systems" />
 </p>
 
 ---
 
-# 👋 Hi, I'm Kunal  
+# 👋 Hi, I'm Kunal Gupta  
 
-🚀 DevOps Engineer | ☁️ AWS | 🐳 Docker | ⚙️ CI/CD  
+🚀 Cloud & DevOps Engineer | ☁️ AWS | ⚙️ CI/CD | 🐳 Docker | 🌍 Automation  
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kunalv04&label=Profile+Views&color=blue&style=flat" />
@@ -20,18 +20,20 @@
 
 ---
 
-> [!TIP]
-> Passionate about automating workflows, building scalable infrastructure, and deploying production-ready systems.
+> [!IMPORTANT]
+> Cloud and DevOps Engineer with **2+ years of experience** in infrastructure automation, CI/CD pipelines, and scalable cloud deployments.
 
 ---
 
 ## 🚀 About Me  
 
-- 💼 DevOps Engineer with hands-on CI/CD experience  
-- ☁️ AWS: EC2, Lambda, API Gateway  
-- 🐳 Containerization with Docker  
-- ⚙️ Automation using GitHub Actions  
-- 📈 Preparing for CAT while improving problem-solving  
+- 💼 DevOps Engineer at **Tech Mahindra**  
+- ☁️ AWS: EC2, S3, IAM, VPC, CloudWatch  
+- ⚙️ CI/CD using Jenkins & GitHub Actions  
+- 🏗️ Infrastructure as Code (Terraform)  
+- 🐳 Docker-based deployments  
+- 📊 Monitoring with CloudWatch & Grafana  
+- 🔧 Strong Linux & troubleshooting skills  
 
 ---
 
@@ -40,25 +42,27 @@
 <p align="center">
 
 <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws"/>
+<img src="https://img.shields.io/badge/Terraform-IaC-purple?style=for-the-badge&logo=terraform"/>
 <img src="https://img.shields.io/badge/Docker-Container-blue?style=for-the-badge&logo=docker"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-CI/CD-black?style=for-the-badge&logo=githubactions"/>
+<img src="https://img.shields.io/badge/Kubernetes-Orchestration-blue?style=for-the-badge&logo=kubernetes"/>
+<img src="https://img.shields.io/badge/Jenkins-CI/CD-red?style=for-the-badge&logo=jenkins"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-Automation-black?style=for-the-badge&logo=githubactions"/>
 <img src="https://img.shields.io/badge/Linux-Terminal-yellow?style=for-the-badge&logo=linux"/>
-<img src="https://img.shields.io/badge/Node.js-Backend-green?style=for-the-badge&logo=node.js"/>
 
 </p>
 
 ---
 
-## 🚀 Featured Project  
+## 🚀 Featured Projects  
 
-### 🔥 Reverse Proxy DevOps Pipeline  
+### 🔥 Reverse Proxy CI/CD Multi-Service Architecture  
 
-> [!IMPORTANT]
-> End-to-end CI/CD pipeline with AWS + Docker + Nginx  
+> [!TIP]
+> End-to-end CI/CD pipeline using AWS + Docker + Nginx  
 
-- 🔄 Automated deployments via GitHub Actions  
-- ☁️ AWS Lambda + API Gateway trigger system  
-- 🐳 Multi-container architecture  
+- 🔄 Automated deployment via GitHub Actions  
+- ☁️ AWS Lambda + API Gateway integration  
+- 🐳 Multi-container Docker architecture  
 - 🌐 Nginx reverse proxy routing  
 
 👉 https://github.com/Kunalv04/DevOps-Projects/tree/main/DevOps-Project-03  
@@ -91,16 +95,12 @@
 
 ---
 
-## 📂 More Projects  
+## 📜 Certifications  
 
-<details>
-<summary>📦 Click to expand</summary>
-
-- CI/CD Automation Pipelines  
-- AWS Deployment Projects  
-- GitHub Actions Workflows  
-
-</details>
+- 🏆 [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/d4becd65-b084-40f3-be90-69f27c4874a0/public_url)  
+- ☁️ [Google Cloud Computing Foundations](https://www.cloudskillsboost.google/public_profiles/016b4181-0795-4c25-a53b-5bf360757a93/badges/13130498)  
+- 🤖 [GitHub Copilot Certification (GH-300)](https://learn.microsoft.com/api/credentials/share/en-us/KunalGupta-3238/EED6E4E9CC3458D9?sharingId=B95E3D6094EE3161)  
+- 🧠 [Introduction to Generative AI](https://www.cloudskillsboost.google/public_profiles/016b4181-0795-4c25-a53b-5bf360757a93/badges/12630674)  
 
 ---
 
@@ -123,6 +123,6 @@
 ## ⚡ DevOps Philosophy  
 
 > [!NOTE]
-> “Automate everything. Scale efficiently. Deploy confidently.” 🚀  
+> Automate deployments. Ensure reliability. Scale systems efficiently. 🚀  
 
 ---
