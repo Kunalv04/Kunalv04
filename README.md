@@ -13,7 +13,7 @@
 <!-- 📄 Resume Button -->
 <p align="center">
 
-<a href="YOUR_RESUME_LINK">
+<a href="./Kunal_Gupta_Resume.pdf">
   <img src="https://img.shields.io/badge/📄%20Download%20Resume-7C4DFF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=000000"/>
 </a>
 
