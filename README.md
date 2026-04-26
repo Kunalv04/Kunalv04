@@ -10,6 +10,17 @@
 
 ---
 
+<!-- 📄 Resume Button -->
+<p align="center">
+
+<a href="YOUR_RESUME_LINK">
+  <img src="https://img.shields.io/badge/📄%20Download%20Resume-7C4DFF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=000000"/>
+</a>
+
+</p>
+
+---
+
 # 👋 Hi, I'm Kunal Gupta  
 
 🚀 DevOps Engineer | ☁️ Certified SAA | Terraform | CI/CD (Jenkins, GitHub Actions) | Docker & Kubernetes | Cloud Automation | Monitoring (CloudWatch, Grafana)
