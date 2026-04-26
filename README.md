@@ -1,18 +1,18 @@
 <!-- 🎨 Custom DevOps Banner -->
 <p align="center">
-  <img src="./a_wide_cinematic_tech_banner_poster_style_image_w.png" width="100%" />
+  <img src="./Banner.png" width="100%" />
 </p>
 
 <!-- 🔥 Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Kunal+Gupta+👋;Cloud+%26+DevOps+Engineer;CI%2FCD+%7C+AWS+%7C+Terraform+%7C+Docker;Automating+Deployments+%26+Scaling+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=2500&pause=700&color=7C4DFF&center=true&vCenter=true&width=950&lines=🔥+Kunal+Gupta;🚀+Cloud+%26+DevOps+Engineer;🏆+AWS+Certified+Solution+Architect+Associate;⚙️+CI%2FCD+%7C+AWS+%7C+Terraform+%7C+Docker;⚡+Automating+%26+Scaling+Systems" />
 </p>
 
 ---
 
 # 👋 Hi, I'm Kunal Gupta  
 
-🚀 Cloud & DevOps Engineer | ☁️ AWS | ⚙️ CI/CD | 🐳 Docker | 🌍 Automation  
+🚀 DevOps Engineer | ☁️ Certified SAA | Terraform | CI/CD (Jenkins, GitHub Actions) | Docker & Kubernetes | Cloud Automation | Monitoring (CloudWatch, Grafana)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kunalv04&label=Profile+Views&color=blue&style=flat" />
@@ -21,7 +21,7 @@
 ---
 
 > [!IMPORTANT]
-> Cloud and DevOps Engineer with **2+ years of experience** in infrastructure automation, CI/CD pipelines, and scalable cloud deployments.
+> Cloud and DevOps Engineer with **2.5+ years of experience** in infrastructure automation, CI/CD pipelines, and scalable cloud deployments.
 
 ---
 
@@ -69,16 +69,6 @@
 
 ---
 
-## 📊 GitHub Analytics  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kunalv04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <br>
-  <img src="https://streak-stats.demolab.com/?user=Kunalv04&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 📈 Contribution Graph  
 
 <p align="center">
@@ -108,11 +98,11 @@
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINK">
+<a href="https://www.linkedin.com/in/kunal-gupta-atz/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:k24.kunal@yahoo.com">
   <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
 </a>
 
