@@ -10,17 +10,6 @@
 
 ---
 
-<!-- 📄 Resume Button -->
-<p align="center">
-
-<a href="./Kunal_Gupta_Resume.pdf">
-  <img src="https://img.shields.io/badge/📄%20Download%20Resume-7C4DFF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=000000"/>
-</a>
-
-</p>
-
----
-
 # 👋 Hi, I'm Kunal Gupta  
 
 🚀 DevOps Engineer | ☁️ Certified SAA | Terraform | CI/CD (Jenkins, GitHub Actions) | Docker & Kubernetes | Cloud Automation | Monitoring (CloudWatch, Grafana)
@@ -102,6 +91,17 @@
 - ☁️ [Google Cloud Computing Foundations](https://www.cloudskillsboost.google/public_profiles/016b4181-0795-4c25-a53b-5bf360757a93/badges/13130498)  
 - 🤖 [GitHub Copilot Certification (GH-300)](https://learn.microsoft.com/api/credentials/share/en-us/KunalGupta-3238/EED6E4E9CC3458D9?sharingId=B95E3D6094EE3161)  
 - 🧠 [Introduction to Generative AI](https://www.cloudskillsboost.google/public_profiles/016b4181-0795-4c25-a53b-5bf360757a93/badges/12630674)  
+
+---
+
+<!-- 📄 Resume Button -->
+<p align="center">
+
+<a href="./Kunal_Gupta_Resume.pdf">
+  <img src="https://img.shields.io/badge/📄%20Download%20Resume-7C4DFF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=000000"/>
+</a>
+
+</p>
 
 ---
 
